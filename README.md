@@ -19,4 +19,4 @@ QUY ĐỊNH :
 
 ◦ Release: Các file .exe và các file thư viện (nếu có).
 
-2) Các bài chép nhau: 0 điểm (dù chỉ chép 1 phần, các chỗ tham khảo của người khác trong bài nộp cần chú dẫn rõ nguồn – nếu không cũng sẽ bị 0 điểm)
+2) Các bài chép nhau: 0 điểm (dù chỉ chép 1 phần, các chỗ tham khảo của người khác trong bài nộp cần chú dẫn rõ nguồn – nếu không cũng sẽ bị 0 điểm).
